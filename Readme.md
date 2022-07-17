@@ -1,7 +1,7 @@
 ## Get Nerd Font
 https://www.nerdfonts.com/font-downloads
 
-## Installing Terminal-Icons
+## Installing Terminal-Icons (Powershell)
 
 ```Install-Module -Name Terminal-Icons -Repository PSGallery```
 

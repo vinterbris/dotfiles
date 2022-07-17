@@ -6,3 +6,9 @@ https://www.nerdfonts.com/font-downloads
 ```Install-Module -Name Terminal-Icons -Repository PSGallery```
 
 ```Import-Module -Name Terminal-Icons```
+
+## Install Z - directory jumper
+
+```z - Directory jumper```
+
+

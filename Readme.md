@@ -11,4 +11,12 @@ https://www.nerdfonts.com/font-downloads
 
 ```z - Directory jumper```
 
+## Install and setup PSReadLine
 
+```Install-Module -Name PSReadline -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck```
+
+```Set-PSReadLineOption -PredictionSource History```
+
+Restart terminal
+
+```Set-PSReadLineOption -PredictionViewStyle ListView```

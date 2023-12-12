@@ -7,15 +7,11 @@
 * Comic Mono + nerf font patch?
 
 ### Color themes for consideration:
-Drakula
-
-Gruvbox
-
-Solarized
-
-Nord
-
-Pywall - color scheme generator
+* Drakula
+* Gruvbox
+* Solarized
+* Nord
+* Pywall - color scheme generator
 
 
 ## Get Nerd Font

@@ -1,5 +1,6 @@
 ### Fonts for consideration:
-Jetbrains Mono
+Jetbrains 
+Mono
 iosevka
 
 SF Mono

@@ -1,16 +1,25 @@
 ### Fonts for consideration:
 Jetbrains Mono
+
 iosevka
+
 SF Mono
+
 Cascadia Code (terminal only?)
+
 Fira Code (terminal and IDE?)
+
 Comic Mono + nerf font patch?
 
 ### Color themes for consideration:
 Drakula
+
 Gruvbox
+
 Solarized
+
 Nord
+
 Pywall - color scheme generator
 
 
